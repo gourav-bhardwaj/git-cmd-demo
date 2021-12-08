@@ -1,5 +1,1 @@
 dummy text
-<<<<<<< HEAD
-=======
-one more test
->>>>>>> b307b15 (Added second.txt)
